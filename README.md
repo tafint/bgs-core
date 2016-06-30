@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/tafint/bgs-core.png?label=ready&title=Ready)](https://waffle.io/tafint/bgs-core)
 # Important Notice
 Please be aware that I'm struggling to maintain this plugin.  Even after considerable effort, I have been unable to produce a reliable development environment.
 
